@@ -17,5 +17,5 @@ or
    
 or 
 
-    chmod +x fixsmtp.py; ./fixsmtp undo
+    ./fixsmtp undo
     
